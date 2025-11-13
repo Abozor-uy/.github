@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/logo.png" alt="Abozor.uy Logo" width="120"/>
+  <img src="./images/logo.png" alt="Abozor.uy Logo" width="420"/>
 </p>
 
 <p align="center"><b>Ваш виртуальный риелтор 24/7 — быстрее, дешевле, комфортнее</b></p>
@@ -66,4 +66,5 @@ Abozor.uy — это платформа, которая меняет прави�
 
 ---
 <p align="center">© 2025 Abozor.uy — все права защищены</p>
+
 
