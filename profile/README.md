@@ -29,7 +29,7 @@ We eliminate intermediaries between sellers and buyers, replacing them with AI a
   <img src="./images/ali.png" alt="Ali bot" width="150"/>
 </td>
 <td valign="top">
-  <h3>👨‍💼 Ali — Your Virtual Home Buying Assistant</h3>
+  <h3>👨‍💼 Ali — Your Virtual Buying Assistant</h3>
   <p>
     Ali helps buyers find apartments that match their requirements — quickly, clearly, and 24/7.<br/>
     He communicates in multiple languages, selects suitable options, and helps arrange viewings.
@@ -84,3 +84,4 @@ We eliminate intermediaries between sellers and buyers, replacing them with AI a
 ---
 
 <p align="center"><sub>© 2025 Abozor.uy — All rights reserved</sub></p>
+
