@@ -1,70 +1,86 @@
-<p align="center">
-  <img src="./images/logo.png" alt="Abozor.uy Logo" width="420"/>
-</p>
-
-<p align="center"><b>Ваш виртуальный риелтор 24/7 — быстрее, дешевле, комфортнее</b></p>
-
----
-
-### 💡 О проекте
-
-Abozor.uy — это платформа, которая меняет правила игры в сфере недвижимости Узбекистана.  
-Мы убираем посредников между продавцами и покупателями, заменяя их ИИ-агентами, которые  
-общаются, подбирают квартиры и сопровождают клиентов до сделки — всё онлайн и без звонков.
-
-> Без фейков. Без посредников. Без лишних звонков.
+<table border="0">
+<tr>
+<td width="140" valign="top">
+  <img src="./images/logo.png" alt="Abozor.uy Logo" width="120"/>
+</td>
+<td valign="middle">
+  <h1>🏠 Abozor.uy</h1>
+  <p><b>Your virtual real estate agent 24/7 — faster, cheaper, more comfortable</b></p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤖 Активный проект — **Ali Real Estate Bot**
+## 💡 About the Project
 
-<p align="center">
-  <img src="./images/ali.png" alt="Ali bot" width="160"/>
-</p>
+**Abozor.uy** is a platform that changes the game in Uzbekistan's real estate market.  
+We eliminate intermediaries between sellers and buyers, replacing them with AI agents that communicate, select apartments, and guide clients to the deal — all online and without phone calls.
 
-### 👨‍💼 Ali — ваш виртуальный помощник при покупке недвижимости
-Али помогает покупателям находить квартиры под их запрос — быстро, понятно и 24/7.  
-Он общается на нескольких языках, подбирает подходящие варианты и помогает договориться о просмотре.
-
-<p align="center">
-  <a href="https://abozor.uy/pokupateli">
-    <img src="https://img.shields.io/badge/Подробнее%20про%20Али-gray?style=for-the-badge&logo=readme&logoColor=white" alt="Подробнее про Али"/>
-  </a>
-  <a href="https://t.me/abozor_ali_bot">
-    <img src="https://img.shields.io/badge/ALI%20TELEGRAM-34A853?style=for-the-badge&logo=telegram&logoColor=white" alt="Ali Telegram"/>
-  </a>
-</p>
+> 🎯 No fakes. No intermediaries. No unnecessary calls.
 
 ---
 
-## 🤖 Активный проект — **Aisha Real Estate Bot**
+## 🤖 Ali Real Estate Bot
 
-<p align="center">
-  <img src="./images/aisha.png" alt="Aisha bot" width="160"/>
-</p>
+<table border="0">
+<tr>
+<td width="180" valign="top" align="center">
+  <img src="./images/ali.png" alt="Ali bot" width="150"/>
+</td>
+<td valign="top">
+  <h3>👨‍💼 Ali — Your Virtual Home Buying Assistant</h3>
+  <p>
+    Ali helps buyers find apartments that match their requirements — quickly, clearly, and 24/7.<br/>
+    He communicates in multiple languages, selects suitable options, and helps arrange viewings.
+  </p>
+  <p>
+    <a href="https://abozor.uy/pokupateli">
+      <img src="https://img.shields.io/badge/Learn%20More-gray?style=for-the-badge&logo=readme&logoColor=white" alt="Learn More"/>
+    </a>
+    <a href="https://t.me/abozor_ali_bot">
+      <img src="https://img.shields.io/badge/Telegram-34A853?style=for-the-badge&logo=telegram&logoColor=white" alt="Ali Telegram"/>
+    </a>
+  </p>
+</td>
+</tr>
+</table>
 
-### 👩‍💼 Aisha — ваш виртуальный агент по продаже недвижимости
-Аиша помогает собственникам продавать квартиры без звонков и посредников.  
-Она берёт на себя 90% общения, фильтрует нецелевые обращения и приводит только реальных покупателей.
+---
 
-<p align="center">
-  <a href="https://abozor.uy/prodavtsi">
-    <img src="https://img.shields.io/badge/Подробнее%20про%20Аишу-gray?style=for-the-badge&logo=readme&logoColor=white" alt="Подробнее про Аишу"/>
-  </a>
-  <a href="https://t.me/abozor_aisha_bot">
-    <img src="https://img.shields.io/badge/AISHA%20TELEGRAM-34A853?style=for-the-badge&logo=telegram&logoColor=white" alt="Aisha Telegram"/>
-  </a>
-</p>
+## 🤖 Aisha Real Estate Bot
+
+<table border="0">
+<tr>
+<td width="180" valign="top" align="center">
+  <img src="./images/aisha.png" alt="Aisha bot" width="150"/>
+</td>
+<td valign="top">
+  <h3>👩‍💼 Aisha — Your Virtual Real Estate Sales Agent</h3>
+  <p>
+    Aisha helps property owners sell apartments without calls and intermediaries.<br/>
+    She handles 90% of communication, filters out irrelevant inquiries, and brings only real buyers.
+  </p>
+  <p>
+    <a href="https://abozor.uy/prodavtsi">
+      <img src="https://img.shields.io/badge/Learn%20More-gray?style=for-the-badge&logo=readme&logoColor=white" alt="Learn More"/>
+    </a>
+    <a href="https://t.me/abozor_aisha_bot">
+      <img src="https://img.shields.io/badge/Telegram-34A853?style=for-the-badge&logo=telegram&logoColor=white" alt="Aisha Telegram"/>
+    </a>
+  </p>
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌍 Контакты
+## 🌍 Contact
 
-📫 [info@abozor.uy](mailto:info@abozor.uy)  
-📍 Ташкент, Узбекистан  
-🌐 [www.abozor.uy](https://www.abozor.uy)
+📫 **Email:** [info@abozor.uy](mailto:info@abozor.uy)  
+📍 **Location:** Tashkent, Uzbekistan  
+🌐 **Website:** [abozor.uy](https://abozor.uy)
 
 ---
-<p align="center">© 2025 Abozor.uy — все права защищены</p>
 
-
+<p align="center"><sub>© 2025 Abozor.uy — All rights reserved</sub></p>
