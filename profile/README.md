@@ -85,3 +85,4 @@ We eliminate intermediaries between sellers and buyers, replacing them with AI a
 
 <p align="center"><sub>© 2025 Abozor.uy — All rights reserved</sub></p>
 
+
