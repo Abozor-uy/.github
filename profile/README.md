@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://abozor.uy/images/logo.png" alt="Abozor.uy Logo" width="120"/>
+  <img src="./images/logo.png" alt="Abozor.uy Logo" width="120"/>
 </p>
 
-<h1 align="center">🏠 Abozor.uy</h1>
 <p align="center"><b>Ваш виртуальный риелтор 24/7 — быстрее, дешевле, комфортнее</b></p>
 
 ---
@@ -20,7 +19,7 @@ Abozor.uy — это платформа, которая меняет прави�
 ## 🤖 Активный проект — **Ali Real Estate Bot**
 
 <p align="center">
-  <img src="https://abozor.uy/images/ali.png" alt="Ali bot" width="160"/>
+  <img src="./images/ali.png" alt="Ali bot" width="160"/>
 </p>
 
 ### 👨‍💼 Ali — ваш виртуальный помощник при покупке недвижимости
@@ -41,7 +40,7 @@ Abozor.uy — это платформа, которая меняет прави�
 ## 🤖 Активный проект — **Aisha Real Estate Bot**
 
 <p align="center">
-  <img src="https://abozor.uy/images/aisha.png" alt="Aisha bot" width="160"/>
+  <img src="./images/aisha.png" alt="Aisha bot" width="160"/>
 </p>
 
 ### 👩‍💼 Aisha — ваш виртуальный агент по продаже недвижимости
@@ -67,3 +66,4 @@ Abozor.uy — это платформа, которая меняет прави�
 
 ---
 <p align="center">© 2025 Abozor.uy — все права защищены</p>
+
