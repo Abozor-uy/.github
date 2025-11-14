@@ -77,12 +77,12 @@ We eliminate intermediaries between sellers and buyers, replacing them with AI a
 
 ## 🌍 Contact
 
-📫 **Email:** [info@abozor.uy](mailto:info@abozor.uy)  
 📍 **Location:** Tashkent, Uzbekistan  
 🌐 **Website:** [abozor.uy](https://abozor.uy)
 
 ---
 
 <p align="center"><sub>© 2025 Abozor.uy — All rights reserved</sub></p>
+
 
 
